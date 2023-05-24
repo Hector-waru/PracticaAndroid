@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Billie Eilish</string>
+    <string name="txt_texto_principal">¿Que quieres de mi?</string>
+    <string name="txt_texto_cancion">Canción de: </string>
+</resources>

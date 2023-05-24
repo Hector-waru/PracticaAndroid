@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PracticaTextoImagen</string>
+    <string name="txt_texto_principal">What do you want for me?</string>
+    <string name="txt_texto_cancion">Song by: </string>
+</resources>
